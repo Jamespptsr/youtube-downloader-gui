@@ -1,4 +1,6 @@
 # YouTube Downloader GUI
+![Screenshot 2024-12-01 105331](https://github.com/user-attachments/assets/8330d185-c41b-480e-a1f8-5dc118b95fb9)
+
 
 A user-friendly graphical interface for [yt-dlp](https://github.com/yt-dlp/yt-dlp), built with Python and tkinter.
 
